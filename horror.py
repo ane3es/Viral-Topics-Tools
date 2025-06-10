@@ -16,7 +16,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-"Analog Horror Series","Creepy VHS Tapes","Lost Media Analog Horror","Haunted Analog Film","Retro Horror Aesthetics","Found Footage Terror","Disturbing VHS Compilation","Urban Legends Analog Horror","Viral Analog Horror","Visual Storytelling Horror"
+"Analog Horror", "School Horror", "Disturbing PSA", "Teacher Horror", "Found Footage", "Scary Stories", "Unexplained Mysteries", "Creepy Videos", "Viral Horror"
 ]
 
 # Fetch Data Button
