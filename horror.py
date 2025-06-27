@@ -16,7 +16,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-"Analog Horror", "School Horror", "Disturbing PSA", "Teacher Horror", "Found Footage", "Scary Stories", "Unexplained Mysteries", "Creepy Videos", "Viral Horror"
+"Simpsons", "15 times simpsons predicted the future", "Simpsons future", "Simpsons predictions"
 ]
 
 # Fetch Data Button
