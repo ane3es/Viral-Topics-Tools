@@ -16,7 +16,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-"Simpsons", "15 times simpsons predicted the future", "Simpsons future", "Simpsons predictions"
+"senior health", "health 365", "senior health 365", "health 365"
 ]
 
 # Fetch Data Button
